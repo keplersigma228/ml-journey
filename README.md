@@ -1,1 +1,1 @@
-Hi, my name is Amir and I am a first year economics student from Nazarbayev University (Transferrrfing to mathematics major next year). I am preparing for my career in ML/Quantf
+Hi, my name is Amir and I am a first year economics student from Nazarbayev University (Transferrfing to mathematics major next year). I am preparing for my career in ML/Quantf
