@@ -1,2 +1,1 @@
-# ml-journey
-just me learning stuff
+Hi, my name is Amir and I am a first year economics student from Nazarbayev University (Transfering to mathematics major next year). I am preparing for my career in ML/Quant
